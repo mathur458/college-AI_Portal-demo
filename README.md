@@ -30,11 +30,11 @@ This is a lightweight Flask web application that serves as an intelligent colleg
 ## 📂 Project Structure
 
 college-portal-demo/
-  |-app.py
-  |-knowledge-base/
-    |-portal.txt
-  |-templates/
-    |-index.html
+  -|-app.py
+  -|-knowledge-base/
+    -|-portal.txt
+  -|-templates/
+    -|-index.html
 
 
 ---
@@ -61,9 +61,9 @@ college-portal-demo/
 Visit http://localhost:5000 in your browser.
 
 ## ✨ Example Questions
-"How do I check my result?"
-"Where can I pay my fees?"
-"What courses are offered in CS?"
+-"How do I check my result?"
+-"Where can I pay my fees?"
+-"What courses are offered in CS?"
 
 ## 📌 Notes
 This is a basic proof-of-concept demo.
