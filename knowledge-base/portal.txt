@@ -1,0 +1,11 @@
+How to check exam results:
+1. Login to the portal
+2. Click on "Examinations" tab
+3. Select "Result Dashboard"
+4. Choose your semester
+
+How to pay fees:
+1. Go to "Finance" section
+2. Click "Fee Payment"
+3. Select payment method
+4. Enter amount and confirm
